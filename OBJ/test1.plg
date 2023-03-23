@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+J:\zhujianliang_work\second\stm32f103C8T6\led_control_v2\test1\user\test1.uvproj
+Project File Date:  06/08/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling ws2812b.c...
+linking...
+Program Size: Code=13054 RO-data=782 RW-data=88 ZI-data=3040  
+FromELF: creating hex file...
+"..\OBJ\test1.axf" - 0 Error(s), 0 Warning(s).

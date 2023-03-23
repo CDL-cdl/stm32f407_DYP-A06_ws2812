@@ -1,0 +1,16 @@
+..\tim3_pwm.o: ..\HARDWARE\timer3_pwm\tim3_pwm.c
+..\tim3_pwm.o: ..\HARDWARE\timer3_pwm\tim3_pwm.h
+..\tim3_pwm.o: ..\SYSTEM\sys\sys.h
+..\tim3_pwm.o: ..\user\stm32f10x.h
+..\tim3_pwm.o: ..\CORE\core_cm3.h
+..\tim3_pwm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\tim3_pwm.o: ..\user\system_stm32f10x.h
+..\tim3_pwm.o: ..\user\stm32f10x_conf.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\tim3_pwm.o: ..\user\stm32f10x.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\tim3_pwm.o: ..\STM32F10x_FWLib\inc\misc.h

@@ -1,0 +1,16 @@
+..\OBJ\timer1_pwm.o: ..\HARDWARE\timer1_pwm\timer1_pwm.c
+..\OBJ\timer1_pwm.o: ..\HARDWARE\timer1_pwm\timer1_pwm.h
+..\OBJ\timer1_pwm.o: ..\SYSTEM\sys\sys.h
+..\OBJ\timer1_pwm.o: ..\user\stm32f10x.h
+..\OBJ\timer1_pwm.o: ..\CORE\core_cm3.h
+..\OBJ\timer1_pwm.o: J:\zhujianliang\KEIL\ARM\RV31\INC\stdint.h
+..\OBJ\timer1_pwm.o: ..\user\system_stm32f10x.h
+..\OBJ\timer1_pwm.o: ..\user\stm32f10x_conf.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\OBJ\timer1_pwm.o: ..\user\stm32f10x.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\timer1_pwm.o: ..\STM32F10x_FWLib\inc\misc.h

@@ -1,0 +1,14 @@
+..\system_stm32f10x_1.o: RTE\Device\STM32F103C8\system_stm32f10x.c
+..\system_stm32f10x_1.o: ..\user\stm32f10x.h
+..\system_stm32f10x_1.o: ..\CORE\core_cm3.h
+..\system_stm32f10x_1.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\system_stm32f10x_1.o: ..\user\system_stm32f10x.h
+..\system_stm32f10x_1.o: ..\user\stm32f10x_conf.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\system_stm32f10x_1.o: ..\user\stm32f10x.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\system_stm32f10x_1.o: ..\STM32F10x_FWLib\inc\misc.h

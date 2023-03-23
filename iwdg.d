@@ -1,0 +1,16 @@
+..\iwdg.o: ..\HARDWARE\IWDG\iwdg.c
+..\iwdg.o: ..\HARDWARE\IWDG\iwdg.h
+..\iwdg.o: ..\SYSTEM\sys\sys.h
+..\iwdg.o: ..\user\stm32f10x.h
+..\iwdg.o: ..\CORE\core_cm3.h
+..\iwdg.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\iwdg.o: ..\user\system_stm32f10x.h
+..\iwdg.o: ..\user\stm32f10x_conf.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\iwdg.o: ..\user\stm32f10x.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\iwdg.o: ..\STM32F10x_FWLib\inc\misc.h

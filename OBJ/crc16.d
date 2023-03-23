@@ -1,0 +1,16 @@
+..\obj\crc16.o: ..\HARDWARE\CRC16\crc16.c
+..\obj\crc16.o: ..\HARDWARE\CRC16\crc16.h
+..\obj\crc16.o: ..\SYSTEM\sys\sys.h
+..\obj\crc16.o: ..\user\stm32f10x.h
+..\obj\crc16.o: ..\CORE\core_cm3.h
+..\obj\crc16.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\crc16.o: ..\user\system_stm32f10x.h
+..\obj\crc16.o: ..\user\stm32f10x_conf.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\crc16.o: ..\user\stm32f10x.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\crc16.o: ..\STM32F10x_FWLib\inc\misc.h

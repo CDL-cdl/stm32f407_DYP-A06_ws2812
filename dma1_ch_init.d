@@ -1,0 +1,16 @@
+..\dma1_ch_init.o: ..\HARDWARE\dma1_ch\dma1_ch_init.c
+..\dma1_ch_init.o: ..\HARDWARE\dma1_ch\dma1_ch_init.h
+..\dma1_ch_init.o: ..\SYSTEM\sys\sys.h
+..\dma1_ch_init.o: ..\user\stm32f10x.h
+..\dma1_ch_init.o: ..\CORE\core_cm3.h
+..\dma1_ch_init.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\dma1_ch_init.o: ..\user\system_stm32f10x.h
+..\dma1_ch_init.o: ..\user\stm32f10x_conf.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\dma1_ch_init.o: ..\user\stm32f10x.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\dma1_ch_init.o: ..\STM32F10x_FWLib\inc\misc.h
